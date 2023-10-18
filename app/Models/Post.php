@@ -27,8 +27,8 @@ class Post extends Model
      */
     const UPDATED_AT = 'updated_date';
 
-    protected $keyType = 'string';
-    protected $primaryKey = 'u_id';
+    // protected $keyType = 'string';
+    // protected $primaryKey = 'u_id';
 
-    public $incrementing = false;
+    // public $incrementing = false;
 }
